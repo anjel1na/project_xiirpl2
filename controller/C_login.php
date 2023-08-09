@@ -27,7 +27,7 @@ class C_login{
     }
 
     function login(){
-
+    // ini adalah fungsi dari method login
 
     }
 }
